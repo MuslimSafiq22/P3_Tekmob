@@ -1,6 +1,6 @@
 Tugas Flutter - praktikum 2 dan 3
 
-prak 2 saja: https://github.com/imabduh/praktikum-2-tekmob.git
+prak 2 saja
 
 - NIM: 2100016074
 - Name: Muslim Safiq
